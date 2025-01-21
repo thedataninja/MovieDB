@@ -1,0 +1,7 @@
+langchain
+pandas
+streamlit
+langchain-chroma
+langchain-openai
+langchain-community
+lark
