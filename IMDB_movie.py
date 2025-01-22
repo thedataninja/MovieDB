@@ -14,7 +14,7 @@ from langchain.chains.query_constructor.base import get_query_constructor_prompt
 from langchain.chains.query_constructor.base import StructuredQueryOutputParser
 from langchain_core.output_parsers import StrOutputParser
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = ''
 
 
 st.set_page_config(page_title="Search Your IMDB database.")
